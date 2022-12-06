@@ -5,11 +5,11 @@ Se me dificultó un poco, ya que conozco relativamente poco de python, pero al e
 para realizar algunoas tareas.
 
 Los comandos utilizados fueron:
-pip install virtualenv
-python -m virtualenv venv
-.\venv\Scripts\activate
-pip install django
-django-admin startproject
+pip install virtualenv,
+python -m virtualenv venv,
+.\venv\Scripts\activate,
+pip install django,
+django-admin startproject,
 
 Y para comenzar a escribir/editar el código ya en VScode:
 python manage.py runserver
