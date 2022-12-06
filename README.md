@@ -1,8 +1,9 @@
 # proyecto-final_ppi
 
 Este proyecto fué desarrollado con Bootstrap v5.0, django y python 3.11.0.
-Se me dificultó un poco, ya que conozco relativamente poco de python, pero al estarlo trabajando, este lenguaje resulta un poco m+as sencillo, ya que se necesita menos código
-para realizar algunoas tareas.
+Se me dificultó un poco, ya que conozco relativamente poco de python, pero al estarlo trabajando, este lenguaje resulta un poco m+as sencillo, ya que se necesita menos código para realizar algunoas tareas.
+
+Definitivamente la conexión o el deployment fue algo que se me dificultó bastante, no logré subirlo o enlazarlo a ningun servidor para poder usar la página de manera remota, intenté en varios sitios, varias formas, muchas horas de videos, pero no se pudo.
 
 ### Los comandos utilizados fueron:
 ```
